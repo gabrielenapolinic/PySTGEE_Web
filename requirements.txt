@@ -1,6 +1,8 @@
 streamlit
-geemap
+geemap==0.32.1
+xyzservices==2024.1.0
 python-box==7.1.1
+folium==0.15.0
 earthengine-api
 pandas
 geopandas
@@ -11,7 +13,5 @@ rasterio
 fiona
 shapely
 scipy
-folium
 streamlit-folium
-xyzservices
 setuptools
