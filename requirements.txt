@@ -1,5 +1,6 @@
 streamlit
-geemap
+geemap==0.34.0
+python-box<8.0.0
 earthengine-api
 pandas
 geopandas
