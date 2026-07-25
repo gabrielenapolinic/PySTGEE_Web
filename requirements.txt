@@ -10,5 +10,3 @@ rasterio
 fiona
 shapely
 scipy
-gdal-bin
-libgdal-dev
