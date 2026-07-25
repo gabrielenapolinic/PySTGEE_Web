@@ -10,3 +10,6 @@ rasterio
 fiona
 shapely
 scipy
+folium
+streamlit-folium
+xyzservices
