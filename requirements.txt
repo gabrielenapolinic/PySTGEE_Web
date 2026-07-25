@@ -1,0 +1,12 @@
+streamlit
+geemap
+earthengine-api
+pandas
+geopandas
+polars
+scikit-learn
+plotly
+rasterio
+fiona
+shapely
+scipy
