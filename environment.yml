@@ -1,0 +1,20 @@
+name: pystgee
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - streamlit
+  - geemap=0.32.1
+  - python-box=7.1.1
+  - earthengine-api
+  - pandas
+  - geopandas
+  - polars
+  - scikit-learn
+  - plotly
+  - rasterio
+  - fiona
+  - shapely
+  - scipy
+  - folium
+  - streamlit-folium
